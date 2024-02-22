@@ -1,7 +1,6 @@
 {
-  "name": "client",
-  "version": "0.1.0",
-  "private": true,
+  "name": "tailwind-animation-extension",
+  "version": "1.0.0",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.1",
     "@testing-library/jest-dom": "^5.17.0",
@@ -40,5 +39,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "license": "ISC"
 }
