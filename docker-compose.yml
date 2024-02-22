@@ -1,0 +1,17 @@
+version: '3.0'
+
+services:
+  client:
+    container_name: react_website
+    build:
+      dockerfile: Dockerfile
+      context: ./client
+    ports:
+      - "8888:8888"
+    logging:
+      options:
+        max-size: "10m"
+        max-file: "3"
+    volumes:
+      - /app/node_modules
+      - ./client:/app
