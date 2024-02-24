@@ -1,6 +1,6 @@
 {
   "name": "tailwind-animation-extension",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.1",
     "@testing-library/jest-dom": "^5.17.0",
@@ -14,6 +14,7 @@
     "react-router-dom": "^6.22.1",
     "react-scripts": "5.0.1",
     "tailwindcss": "^3.4.1",
+    "telegram-assistant": "^1.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
