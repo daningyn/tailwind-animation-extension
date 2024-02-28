@@ -1,6 +1,6 @@
 {
   "name": "tailwind-animation-extension",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.1",
     "@testing-library/jest-dom": "^5.17.0",
@@ -23,6 +23,14 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "repository": {
+    "url": "https://github.com/daningyn/tailwind-animation-extension.git",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/daningyn/tailwind-animation-extension/issues"
+  },
+  "homepage": "https://github.com/daningyn/tailwind-animation-extension",
   "eslintConfig": {
     "extends": [
       "react-app",
