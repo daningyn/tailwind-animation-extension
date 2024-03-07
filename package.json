@@ -1,6 +1,6 @@
 {
   "name": "tailwind-animation-extension",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.1",
     "@testing-library/jest-dom": "^5.17.0",
@@ -24,9 +24,10 @@
     "eject": "react-scripts eject"
   },
   "repository": {
-    "url": "https://github.com/daningyn/tailwind-animation-extension.git",
+    "url": "https://github.com/daningyn/tailwind-animation-extension",
     "type": "git"
   },
+  "website": "https://github.com/daningyn/tailwind-animation-extension.git",
   "bugs": {
     "url": "https://github.com/daningyn/tailwind-animation-extension/issues"
   },
